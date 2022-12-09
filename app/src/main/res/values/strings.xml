@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Github User</string>
+    <string name="favorite">Favorit</string>
+    <string name="about_me">Tentang Saya</string>
+
+    <!--Messages-->
+    <string name="toast_search_no_user">Tidak ada pengguna yang ditemukan</string>
+    <string name="toast_single_back_pressed">Tekan kembali lagi untuk keluar</string>
+    <string name="search_query_hint" tools:ignore="TypographyEllipsis">Cari pengguna ...</string>
+    <string name="no_user_favorite">Favorit kosong</string>
+
+    <!--String Formats-->
+    <string name="followers_following_format">%d follower • %d following</string>
+
+    <!--Content Descriptions-->
+    <string name="content_desc_btn_back">Kembali</string>
+    <string name="content_desc_btn_search">Cari pengguna</string>
+    <string name="content_desc_btn_search_hint">Cari pengguna</string>
+    <string name="content_desc_btn_favorite">Buka halaman pengguna favorit</string>
+    <string name="content_desc_btn_add_favorite">Tambahkan pengguna ke favorit</string>
+    <string name="content_desc_btn_remove_favorite">Hapus pengguna dari favorit</string>
+    <string name="content_desc_btn_about_me">about_page</string>
+    <string name="content_desc_btn_close_search">Tutup kolom pencarian</string>
+    <string name="content_desc_photo">Foto profil pengguna</string>
+    <string name="content_desc_icon_followers">Pengikut dan diikuti</string>
+    <string name="content_desc_icon_company">Perusahaan</string>
+    <string name="content_desc_icon_location">Lokasi</string>
+    <string name="content_desc_icon_twitter">Twitter</string>
+
+    <!--User About Me-->
+    <string name="about_me_user_name">Syahdilla Putra Sholeh</string>
+    <string name="about_me_user_email">adisps9955@gmail.com</string>
+
+</resources>
