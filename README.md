@@ -8,8 +8,7 @@ Simple github user app using compose
 ### SAYA MEMBAGIKAN INI HANYA UNTUK REFERENSI DAN PORTOFOLIO UNTUK PROFIL SAYA!
 
 ## Preview
-![Screenshot](screenshot/screenshot_1.jpg)
-![Screenshot](screenshot/screenshot_2.jpg)
-![Screenshot](screenshot/screenshot_3.jpg)
-![Screenshot](screenshot/screenshot_4.jpg)
-![Screenshot](screenshot/screenshot_5.jpg)
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|![screenshot](screenshot/screenshot_3.jpg)|![screenshot](screenshot/screenshot_2.jpg)|![screenshot](screenshot/screenshot_5.jpg)|
+![screenshot](screenshot/screenshot_4.jpg)|![screenshot](screenshot/screenshot_1.jpg)|
